@@ -1,2 +1,2 @@
-# Projetos-Web
- Nesse repositório será postado projetos individuais, desenvolvidos de maneira autônoma. Além disso, tem como principais linguagens HTML, CSS e JS
+# Projetos Web
+Em primeiro instância esse repositório está sendo destinado para criação de pequenos projetos que serão realizados de forma autônoma, servindo tanto para o aprendizado, quanto para minha evolução no âmbito do desenvolvimento WEB.
