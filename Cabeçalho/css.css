@@ -1,45 +1,54 @@
-*{
+* {
     padding: 0;
-    margin:0;
+    margin: 0;
     box-sizing: border-box;
 }
 
-header{
+header {
     width: 100%;
     background-color: deepskyblue;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px 0;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background: #00bfff;
+    box-shadow: inset 35px 35px 70px #008fbf,
+                inset -35px -35px 70px #00efff;
 }
 
-.menu li{
+.menu li {
     display: inline-block;
     margin: 0 20px;
 }
-.menu li a{
+
+.menu li a {
     font-size: 20px;
     text-decoration: none;
     color: white;
     text-transform: uppercase;
     padding: 10px 10px;
 }
-.menu li a:hover{
+
+.menu li a:hover {
     background-color: rgba(100, 100, 100, 0.5);
     border-radius: 15px;
 }
 
-.container-logo{
+.container-logo {
     display: flex;
     align-items: center;
 }
-.logo-imagem{
+
+.logo-imagem {
     width: 50px;
     height: 50px;
     border-radius: 25px;
     background-color: black;
 }
-.logo-texto{
+
+.logo-texto {
     margin-left: 20px;
     color: white;
 }
